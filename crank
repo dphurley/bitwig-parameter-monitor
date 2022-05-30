@@ -1,0 +1,3 @@
+rm ~/Documents/Bitwig\ Studio/Extensions/BitwigParameterMonitor.bwextension
+mvn install
+cp target/BitwigParameterMonitor.bwextension ~/Documents/Bitwig\ Studio/Extensions/
